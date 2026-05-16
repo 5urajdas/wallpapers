@@ -1,4 +1,4 @@
-# The ones I gave my own spin to
+# Some favourites
 
 <table>
   <tr>
